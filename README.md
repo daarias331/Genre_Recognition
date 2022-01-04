@@ -1,14 +1,14 @@
 # Genre_Recognition
 Prediction of music genre recognition with machine learning
 
-###Overview
+### Overview
 
 The goal of this project is to build and critically analyse some supervised Machine Learning algorithms, to
 automatically identify the genre of a song on the basis of its audio, metadata and textual features. That is, given
 a list of songs, I will implement some Machine Learning model(s), train them using the training
 dataset, and evaluate using the test validation and test dataset.
 
-###Dataset
+### Dataset
 
 Each song (instance) is represented through a large set of features (described in detail in the Data_description.txt), and
 listed in the features.csv files. Each song is labelled with a single genre tag, which is provided in the labels.csv
